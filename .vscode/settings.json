@@ -1,0 +1,4 @@
+{
+	"appService.defaultWebAppToDeploy": "/subscriptions/ed1c9fd3-0686-4441-bb55-c3ad1575b18e/AppServices/subscriptions/ed1c9fd3-0686-4441-bb55-c3ad1575b18e/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/erlomaton",
+	"appService.deploySubpath": "."
+}
